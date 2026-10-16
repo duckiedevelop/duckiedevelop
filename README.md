@@ -4,7 +4,7 @@
 
 # duckie
 
-**Astra > Opus**
+**Opus > All**
 
 Anything AI related, reverse engineering, and things I wanted to exist.
 
