@@ -6,7 +6,8 @@
 
 **Opus > All**
 
-Anything AI related, reverse engineering, and things I wanted to exist.
+Currently working on Andromeda, an OGFN chapter 1 launcher with S1-S10 support, realistic bots, all gamemodes, rotating item shop, functioning battle pass, full STW support, creative support, and more.
+
 
 <a href="https://github.com/duckiedevelop?tab=repositories">explore my projects</a>
 &nbsp;·&nbsp;
