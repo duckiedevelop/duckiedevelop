@@ -7,7 +7,11 @@
 **Opus > All**
 
 Currently working on Andromeda, an OGFN chapter 1 launcher with S1-S10 support, realistic bots, all gamemodes, rotating item shop, functioning battle pass, full STW support, creative support, and more.
+<br />
 
+<img src="https://raw.githubusercontent.com/duckiedevelop/duckiedevelop/main/thanosthingig.png" width="650" alt="Andromeda Launcher Preview" />
+
+<br />
 
 <a href="https://github.com/duckiedevelop?tab=repositories">explore my projects</a>
 &nbsp;·&nbsp;
