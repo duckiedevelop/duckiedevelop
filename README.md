@@ -17,9 +17,9 @@ Currently working on Andromeda, an OGFN chapter 1 launcher with S1-S10 support, 
 <br />
 
 <img src="https://img.shields.io/badge/C%2B%2B-242424?style=flat-square&amp;logo=cplusplus&amp;logoColor=FFFFFF" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-242424?style=flat-square&logo=csharp&logoColor=FFFFFF" alt="C#" />
 <img src="https://img.shields.io/badge/Python-242424?style=flat-square&amp;logo=python&amp;logoColor=FFFFFF" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-242424?style=flat-square&amp;logo=javascript&amp;logoColor=FFFFFF" alt="JavaScript" />
-
 </div>
 
 <br />
