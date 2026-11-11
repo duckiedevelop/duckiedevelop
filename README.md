@@ -16,15 +16,15 @@
 
 <br />
 <br />
-
+<!-- I genuinely dont know why i divided this into 2. Im losing my mind
 <p>
 Currently working on Andromeda, an OGFN chapter 1 launcher with S1-S10 support, realistic bots, all gamemodes, rotating item shop, functioning battle pass, full STW support, creative support, and more.
 </p>
 
 <br />
 <img src="https://raw.githubusercontent.com/duckiedevelop/duckiedevelop/main/thanosthingig.png" width="650" alt="Andromeda Launcher Preview" />
-<br />
-<br />
+<br /> 
+<br /> -->
 
 <!-- uh saving for later if i get hungry xd
 <a href="https://github.com/duckiedevelop?tab=repositories">explore my projects</a>
